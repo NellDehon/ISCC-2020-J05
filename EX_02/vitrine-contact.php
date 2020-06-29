@@ -5,6 +5,7 @@
         <link rel="stylesheet" type="text/css" href="style/vitrine.css" >
     </head>
     <body>
+    <?php ($nav_en_cours ='contact')?>
     <?php include 'header.php'; ?>
        
        
